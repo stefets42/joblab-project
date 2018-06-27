@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-06-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="Type" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degré" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="STEAM School" label="STEAM School">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34101382488479265"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4218468468468464"></attvalue>
+          <attvalue for="betweenesscentrality" value="452.2583587253649"></attvalue>
+        </attvalues>
+        <viz:size value="55.24408"></viz:size>
+        <viz:position x="453.90012" y="-273.11002"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Facilitation" label="Facilitation">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3135593220338983"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36013513513513506"></attvalue>
+          <attvalue for="betweenesscentrality" value="73.0"></attvalue>
+        </attvalues>
+        <viz:size value="25.59937"></viz:size>
+        <viz:position x="-204.37973" y="-726.45404"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Sociology" label="Sociology">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3162393162393162"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3781531531531532"></attvalue>
+          <attvalue for="betweenesscentrality" value="22.208562764277826"></attvalue>
+        </attvalues>
+        <viz:size value="21.062096"></viz:size>
+        <viz:position x="-180.59567" y="381.1378"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Science and Technology Studies" label="Science and Technology Studies">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36576576576576575"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.509895522290755"></attvalue>
+        </attvalues>
+        <viz:size value="21.336624"></viz:size>
+        <viz:position x="-121.38982" y="337.71304"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Critical Analysis" label="Critical Analysis">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36576576576576575"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.470491608753298"></attvalue>
+        </attvalues>
+        <viz:size value="21.21675"></viz:size>
+        <viz:position x="-31.801212" y="299.97314"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Poster Design Course" label="Poster Design Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22629969418960244"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.25328185328185304"></attvalue>
+          <attvalue for="betweenesscentrality" value="73.0"></attvalue>
+        </attvalues>
+        <viz:size value="25.59937"></viz:size>
+        <viz:position x="726.32996" y="56.56088"></viz:position>
+        <viz:color r="255" g="92" b="129"></viz:color>
+      </node>
+      <node id="Content analysis" label="Content analysis">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2890625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3222972972972972"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="77.73038" y="595.9278"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Job Lab Workshop" label="Job Lab Workshop">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32599118942731276"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3857142857142854"></attvalue>
+          <attvalue for="betweenesscentrality" value="216.1779664518961"></attvalue>
+        </attvalues>
+        <viz:size value="31.160387"></viz:size>
+        <viz:position x="-574.21313" y="-232.3244"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Synlab volunteering" label="Synlab volunteering">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37185929648241206"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4299549549549547"></attvalue>
+          <attvalue for="betweenesscentrality" value="252.86855227194778"></attvalue>
+        </attvalues>
+        <viz:size value="38.64592"></viz:size>
+        <viz:position x="250.25812" y="195.81296"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Statistics Course" label="Statistics Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.334841628959276"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3942728442728439"></attvalue>
+          <attvalue for="betweenesscentrality" value="221.20220134109107"></attvalue>
+        </attvalues>
+        <viz:size value="56.85612"></viz:size>
+        <viz:position x="-604.5759" y="65.05"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Political Science" label="Political Science">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2890625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3222972972972972"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-95.72469" y="598.1056"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Philosophy of Education Course" label="Philosophy of Education Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34418604651162793"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3948198198198195"></attvalue>
+          <attvalue for="betweenesscentrality" value="98.4411713817654"></attvalue>
+        </attvalues>
+        <viz:size value="30.88178"></viz:size>
+        <viz:position x="-156.84044" y="113.03679"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Policy" label="Policy">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3490566037735849"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.40067567567567564"></attvalue>
+          <attvalue for="betweenesscentrality" value="31.06896649960811"></attvalue>
+        </attvalues>
+        <viz:size value="22.971947"></viz:size>
+        <viz:position x="-9.739914" y="-7.421035"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Teaching" label="Teaching">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27611940298507465"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30202702702702694"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="211.20912" y="-599.0263"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="User interviews" label="User interviews">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17370892018779344"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19831081081081062"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="909.9893" y="-337.1067"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="CARA Course" label="CARA Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.357487922705314"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41959459459459425"></attvalue>
+          <attvalue for="betweenesscentrality" value="96.59929152858011"></attvalue>
+        </attvalues>
+        <viz:size value="34.51088"></viz:size>
+        <viz:position x="-48.05043" y="126.72916"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Web development" label="Web development">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3894144144144144"></attvalue>
+          <attvalue for="betweenesscentrality" value="68.17942672540367"></attvalue>
+        </attvalues>
+        <viz:size value="20.365637"></viz:size>
+        <viz:position x="-308.18677" y="-409.0286"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Workshop planning" label="Workshop planning">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31896551724137934"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3668918918918918"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.766884401288425"></attvalue>
+        </attvalues>
+        <viz:size value="20.365637"></viz:size>
+        <viz:position x="46.86087" y="-552.3487"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Entrepreneurship Course" label="Entrepreneurship Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2096317280453258"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.25588803088803064"></attvalue>
+          <attvalue for="betweenesscentrality" value="74.5"></attvalue>
+        </attvalues>
+        <viz:size value="25.714424"></viz:size>
+        <viz:position x="802.4886" y="-307.6203"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Education" label="Education">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4157303370786517"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4824324324324324"></attvalue>
+          <attvalue for="betweenesscentrality" value="355.05339189365543"></attvalue>
+        </attvalues>
+        <viz:size value="51.70971"></viz:size>
+        <viz:position x="169.44139" y="-19.47289"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Persona" label="Persona">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25874125874125875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2993243243243243"></attvalue>
+          <attvalue for="betweenesscentrality" value="46.66666666666675"></attvalue>
+        </attvalues>
+        <viz:size value="23.579506"></viz:size>
+        <viz:position x="692.7439" y="-285.9508"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Research protocol design" label="Research protocol design">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3008130081300813"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34099099099099095"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.672896069447794"></attvalue>
+        </attvalues>
+        <viz:size value="20.245153"></viz:size>
+        <viz:position x="135.2857" y="454.34848"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Design thinking" label="Design thinking">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3799549549549549"></attvalue>
+          <attvalue for="betweenesscentrality" value="31.374202551342425"></attvalue>
+        </attvalues>
+        <viz:size value="22.104774"></viz:size>
+        <viz:position x="319.3347" y="-228.70393"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Collaboration" label="Collaboration">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3425925925925926"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4013513513513513"></attvalue>
+          <attvalue for="betweenesscentrality" value="67.45826089329535"></attvalue>
+        </attvalues>
+        <viz:size value="24.370462"></viz:size>
+        <viz:position x="217.54483" y="-378.35196"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Philosophy" label="Philosophy">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2569444444444444"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27905405405405403"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-262.6013" y="58.129032"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Media literacy" label="Media literacy">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.30327868852459017"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3499999999999999"></attvalue>
+          <attvalue for="betweenesscentrality" value="31.258876682367244"></attvalue>
+        </attvalues>
+        <viz:size value="21.896511"></viz:size>
+        <viz:position x="318.57007" y="-406.28088"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Entrepreneurship" label="Entrepreneurship">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25874125874125875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2993243243243243"></attvalue>
+          <attvalue for="betweenesscentrality" value="46.66666666666675"></attvalue>
+        </attvalues>
+        <viz:size value="23.579506"></viz:size>
+        <viz:position x="687.1736" y="-365.35074"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Digital Humanities Course" label="Digital Humanities Course">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.30962343096234307"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36611969111969084"></attvalue>
+          <attvalue for="betweenesscentrality" value="98.27037392641287"></attvalue>
+        </attvalues>
+        <viz:size value="27.960737"></viz:size>
+        <viz:position x="-313.60593" y="-34.148087"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Leadership" label="Leadership">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31896551724137934"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3668918918918918"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.766884401288425"></attvalue>
+        </attvalues>
+        <viz:size value="20.365637"></viz:size>
+        <viz:position x="15.141981" y="-612.51105"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Internship at Etalab" label="Etalab Internship">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="24"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4484848484848485"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5774774774774776"></attvalue>
+          <attvalue for="betweenesscentrality" value="1074.1733770737412"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-97.36647" y="-408.3711"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Exploratory Statistics" label="Exploratory Statistics">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25170068027210885"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2779440154440154"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-728.3396" y="138.80363"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Social Psychology" label="Social Psychology">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27205882352941174"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29527027027027025"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="340.06503" y="304.55234"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Law" label="Law">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-72.617096" y="-616.7719"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Event planning" label="Event planning">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-228.66414" y="-614.25385"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Interdisciplinarity" label="Interdisciplinarity">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.38144329896907214"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44031531531531526"></attvalue>
+          <attvalue for="betweenesscentrality" value="171.25270263715404"></attvalue>
+        </attvalues>
+        <viz:size value="35.635654"></viz:size>
+        <viz:position x="87.66432" y="-123.06211"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="CRI Code Club" label="CRI Code Club">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37948717948717947"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.44797297297297256"></attvalue>
+          <attvalue for="betweenesscentrality" value="227.64298779080437"></attvalue>
+        </attvalues>
+        <viz:size value="35.67636"></viz:size>
+        <viz:position x="123.805275" y="-464.72495"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Annotated bibliography" label="Annotated bibliography">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2605633802816901"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29100707850707846"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-438.74197" y="200.49068"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Game master at SAPIENS Escape Game" label="Game master at SAPIENS Escape Game">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23948220064724918"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26332046332046316"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-241.69365" y="-838.2285"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Ethnography" label="Ethnography">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2890625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3222972972972972"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="13.945529" y="613.77826"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Data visualization" label="Data visualization">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24666666666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2732142857142857"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-669.08325" y="-319.0582"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="UX Research" label="UX Research">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25874125874125875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2993243243243243"></attvalue>
+          <attvalue for="betweenesscentrality" value="46.66666666666675"></attvalue>
+        </attvalues>
+        <viz:size value="23.579506"></viz:size>
+        <viz:position x="651.8035" y="-184.59929"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Data for Good volunteering" label="Data for Good volunteering">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34418604651162793"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38355855855855825"></attvalue>
+          <attvalue for="betweenesscentrality" value="33.40310029743113"></attvalue>
+        </attvalues>
+        <viz:size value="21.84854"></viz:size>
+        <viz:position x="75.16515" y="-223.75908"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Quantitative research" label="Quantitative research">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25874125874125875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29708815958815954"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.489102323838081"></attvalue>
+        </attvalues>
+        <viz:size value="28.053886"></viz:size>
+        <viz:position x="-717.11237" y="-91.860535"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Graphic design" label="Graphic design">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.185"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.20217181467181455"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="825.21783" y="85.437706"></viz:position>
+        <viz:color r="255" g="92" b="129"></viz:color>
+      </node>
+      <node id="Open Data" label="Open Data">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-133.07472" y="-636.8914"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Data analysis" label="Data analysis">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25874125874125875"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29708815958815954"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.489102323838081"></attvalue>
+        </attvalues>
+        <viz:size value="28.053886"></viz:size>
+        <viz:position x="-631.9209" y="-101.28284"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Semi-directed interviews" label="Semi-directed interviews">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27205882352941174"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29527027027027025"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="402.38843" y="278.49493"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Documentary research" label="Documentary research">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33035714285714285"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.40067567567567564"></attvalue>
+          <attvalue for="betweenesscentrality" value="68.84834256279312"></attvalue>
+        </attvalues>
+        <viz:size value="25.871767"></viz:size>
+        <viz:position x="-182.85742" y="207.97263"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Politics" label="Politics">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33035714285714285"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3804054054054054"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.857261807233552"></attvalue>
+        </attvalues>
+        <viz:size value="22.070404"></viz:size>
+        <viz:position x="-273.25522" y="-150.66965"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Open Source" label="Open Source">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33035714285714285"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3860360360360359"></attvalue>
+          <attvalue for="betweenesscentrality" value="43.76422130423607"></attvalue>
+        </attvalues>
+        <viz:size value="23.126759"></viz:size>
+        <viz:position x="-181.44914" y="-237.67758"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Project coordination" label="Project coordination">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-241.61728" y="-553.47614"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Rapid prototyping" label="Rapid prototyping">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25517241379310346"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2869369369369369"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="566.0733" y="-362.79144"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Internship report on APB / Parcoursup" label="Parcoursup Internship report">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="15"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40437158469945356"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5020270270270267"></attvalue>
+          <attvalue for="betweenesscentrality" value="479.5650984256653"></attvalue>
+        </attvalues>
+        <viz:size value="61.279892"></viz:size>
+        <viz:position x="-18.871576" y="442.6831"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Annotated bibliography on algorithms" label="Annotated bibliography on algorithms">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35071090047393366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4264800514800512"></attvalue>
+          <attvalue for="betweenesscentrality" value="149.2423867165157"></attvalue>
+        </attvalues>
+        <viz:size value="35.90869"></viz:size>
+        <viz:position x="-288.75583" y="161.08148"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Qualitative research" label="Qualitative research">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3601351351351351"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.191342013857229"></attvalue>
+        </attvalues>
+        <viz:size value="21.504353"></viz:size>
+        <viz:position x="190.88875" y="371.1678"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Social science" label="Social science">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3394495412844037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41644144144144146"></attvalue>
+          <attvalue for="betweenesscentrality" value="99.9026901204345"></attvalue>
+        </attvalues>
+        <viz:size value="28.90564"></viz:size>
+        <viz:position x="-87.44619" y="235.05981"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Lifelong Learning" label="Lifelong Learning">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3523809523809524"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.40585585585585576"></attvalue>
+          <attvalue for="betweenesscentrality" value="55.965596089383624"></attvalue>
+        </attvalues>
+        <viz:size value="25.401205"></viz:size>
+        <viz:position x="184.30663" y="-191.57724"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="Diplomacy" label="Diplomacy">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-288.3638" y="-510.931"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Public speaking" label="Public speaking">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3162393162393162"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3635135135135135"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.958587142991165"></attvalue>
+        </attvalues>
+        <viz:size value="20.76881"></viz:size>
+        <viz:position x="110.80983" y="-358.1522"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Communication" label="Communication">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31896551724137934"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36689189189189186"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.766884401288425"></attvalue>
+        </attvalues>
+        <viz:size value="20.365637"></viz:size>
+        <viz:position x="98.06944" y="-594.51324"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Data science" label="Data science">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3135593220338983"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36013513513513506"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.717171717171717"></attvalue>
+        </attvalues>
+        <viz:size value="20.363909"></viz:size>
+        <viz:position x="59.5061" y="-300.71057"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Internship at Sciences Po Medialab" label="Medialab Internship">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.39572192513368987"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4711711711711709"></attvalue>
+          <attvalue for="betweenesscentrality" value="369.22963774683745"></attvalue>
+        </attvalues>
+        <viz:size value="53.611237"></viz:size>
+        <viz:position x="80.32952" y="247.32416"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Sciences Po Lille Talk" label="Sciences Po Lille Talk">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3378995433789954"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3711711711711709"></attvalue>
+          <attvalue for="betweenesscentrality" value="29.012443327253635"></attvalue>
+        </attvalues>
+        <viz:size value="21.736233"></viz:size>
+        <viz:position x="166.72171" y="-287.91977"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Civic Tech" label="Civic Tech">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3217391304347826"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3702702702702702"></attvalue>
+          <attvalue for="betweenesscentrality" value="24.344743337312472"></attvalue>
+        </attvalues>
+        <viz:size value="21.752274"></viz:size>
+        <viz:position x="-305.13977" y="-249.62587"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Recruitment" label="Recruitment">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31092436974789917"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3511261261261261"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-172.15291" y="-589.1076"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Game design" label="Game design">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.27205882352941174"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29527027027027025"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="382.96948" y="211.72108"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Design" label="Design">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2890625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32409909909909906"></attvalue>
+          <attvalue for="betweenesscentrality" value="144.0"></attvalue>
+        </attvalues>
+        <viz:size value="31.04533"></viz:size>
+        <viz:position x="505.8019" y="-9.80725"></viz:position>
+        <viz:color r="255" g="92" b="129"></viz:color>
+      </node>
+      <node id="Open Access" label="Open Access">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23717948717948717"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.263529601029601"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-431.785" y="-51.843296"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Social Network Research Methods" label="Social Network Research Methods">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24666666666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2732142857142857"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-704.96246" y="-256.5887"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="Attendance at ecnEHESS seminar" label="ecnEHESS seminar">
+        <attvalues>
+          <attvalue for="type" value="Experience"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3288888888888889"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3762548262548259"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.413052994693018"></attvalue>
+        </attvalues>
+        <viz:size value="21.014984"></viz:size>
+        <viz:position x="-190.35677" y="293.1867"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Academic research" label="Academic research">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.404054054054054"></attvalue>
+          <attvalue for="betweenesscentrality" value="104.21160756556307"></attvalue>
+        </attvalues>
+        <viz:size value="62.58702"></viz:size>
+        <viz:position x="-322.0207" y="311.6516"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Data collection" label="Data collection">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2890625"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3222972972972972"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-43.66005" y="641.811"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="Writing &amp; Editing" label="Writing &amp; Editing">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.39361702127659576"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4599099099099099"></attvalue>
+          <attvalue for="betweenesscentrality" value="169.27922087612794"></attvalue>
+        </attvalues>
+        <viz:size value="36.240463"></viz:size>
+        <viz:position x="53.851486" y="89.92305"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="Technology" label="Technology">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.45121951219512196"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5286036036036035"></attvalue>
+          <attvalue for="betweenesscentrality" value="715.1726837637583"></attvalue>
+        </attvalues>
+        <viz:size value="50.87039"></viz:size>
+        <viz:position x="-128.90689" y="-54.078884"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="Descriptive Statistics" label="Descriptive Statistics">
+        <attvalues>
+          <attvalue for="type" value="Skill"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25170068027210885"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2779440154440154"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-750.36255" y="67.50378"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="STEAM School" target="Persona"></edge>
+      <edge id="1" source="STEAM School" target="Design thinking"></edge>
+      <edge id="2" source="STEAM School" target="Collaboration"></edge>
+      <edge id="3" source="STEAM School" target="Media literacy"></edge>
+      <edge id="4" source="STEAM School" target="Entrepreneurship"></edge>
+      <edge id="5" source="STEAM School" target="Lifelong Learning"></edge>
+      <edge id="6" source="STEAM School" target="Interdisciplinarity"></edge>
+      <edge id="7" source="STEAM School" target="UX Research"></edge>
+      <edge id="8" source="STEAM School" target="Education"></edge>
+      <edge id="9" source="STEAM School" target="Rapid prototyping"></edge>
+      <edge id="10" source="Facilitation" target="Game master at SAPIENS Escape Game"></edge>
+      <edge id="11" source="Facilitation" target="Internship at Etalab"></edge>
+      <edge id="12" source="Sociology" target="Attendance at ecnEHESS seminar"></edge>
+      <edge id="13" source="Sociology" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="14" source="Sociology" target="CARA Course"></edge>
+      <edge id="15" source="Sociology" target="Annotated bibliography on algorithms"></edge>
+      <edge id="16" source="Science and Technology Studies" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="17" source="Science and Technology Studies" target="Attendance at ecnEHESS seminar"></edge>
+      <edge id="18" source="Science and Technology Studies" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="19" source="Science and Technology Studies" target="Annotated bibliography on algorithms"></edge>
+      <edge id="20" source="Critical Analysis" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="21" source="Critical Analysis" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="22" source="Critical Analysis" target="CARA Course"></edge>
+      <edge id="23" source="Critical Analysis" target="Philosophy of Education Course"></edge>
+      <edge id="24" source="Poster Design Course" target="Graphic design"></edge>
+      <edge id="25" source="Poster Design Course" target="Design"></edge>
+      <edge id="26" source="Content analysis" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="27" source="Job Lab Workshop" target="Quantitative research"></edge>
+      <edge id="28" source="Job Lab Workshop" target="Data analysis"></edge>
+      <edge id="29" source="Job Lab Workshop" target="Data visualization"></edge>
+      <edge id="30" source="Job Lab Workshop" target="Social Network Research Methods"></edge>
+      <edge id="31" source="Synlab volunteering" target="Education"></edge>
+      <edge id="32" source="Synlab volunteering" target="Qualitative research"></edge>
+      <edge id="33" source="Synlab volunteering" target="Social science"></edge>
+      <edge id="34" source="Synlab volunteering" target="Game design"></edge>
+      <edge id="35" source="Synlab volunteering" target="Semi-directed interviews"></edge>
+      <edge id="36" source="Synlab volunteering" target="Social Psychology"></edge>
+      <edge id="37" source="Synlab volunteering" target="Writing &amp; Editing"></edge>
+      <edge id="38" source="Synlab volunteering" target="Technology"></edge>
+      <edge id="39" source="Statistics Course" target="Exploratory Statistics"></edge>
+      <edge id="40" source="Statistics Course" target="Academic research"></edge>
+      <edge id="41" source="Statistics Course" target="Data analysis"></edge>
+      <edge id="42" source="Statistics Course" target="Descriptive Statistics"></edge>
+      <edge id="43" source="Statistics Course" target="Quantitative research"></edge>
+      <edge id="44" source="Political Science" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="45" source="Philosophy of Education Course" target="Education"></edge>
+      <edge id="46" source="Philosophy of Education Course" target="Philosophy"></edge>
+      <edge id="47" source="Philosophy of Education Course" target="Documentary research"></edge>
+      <edge id="48" source="Philosophy of Education Course" target="Academic research"></edge>
+      <edge id="49" source="Philosophy of Education Course" target="Writing &amp; Editing"></edge>
+      <edge id="50" source="Policy" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="51" source="Policy" target="Internship at Etalab"></edge>
+      <edge id="52" source="Teaching" target="CRI Code Club"></edge>
+      <edge id="53" source="User interviews" target="Entrepreneurship Course"></edge>
+      <edge id="54" source="CARA Course" target="Interdisciplinarity"></edge>
+      <edge id="55" source="CARA Course" target="Lifelong Learning"></edge>
+      <edge id="56" source="CARA Course" target="Documentary research"></edge>
+      <edge id="57" source="CARA Course" target="Academic research"></edge>
+      <edge id="58" source="CARA Course" target="Education"></edge>
+      <edge id="59" source="CARA Course" target="Social science"></edge>
+      <edge id="60" source="Web development" target="CRI Code Club"></edge>
+      <edge id="61" source="Web development" target="Internship at Etalab"></edge>
+      <edge id="62" source="Workshop planning" target="CRI Code Club"></edge>
+      <edge id="63" source="Workshop planning" target="Internship at Etalab"></edge>
+      <edge id="64" source="Entrepreneurship Course" target="UX Research"></edge>
+      <edge id="65" source="Entrepreneurship Course" target="Persona"></edge>
+      <edge id="66" source="Entrepreneurship Course" target="Entrepreneurship"></edge>
+      <edge id="67" source="Education" target="CRI Code Club"></edge>
+      <edge id="68" source="Education" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="69" source="Education" target="Internship at Etalab"></edge>
+      <edge id="70" source="Research protocol design" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="71" source="Research protocol design" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="72" source="Design thinking" target="Internship at Etalab"></edge>
+      <edge id="73" source="Collaboration" target="CRI Code Club"></edge>
+      <edge id="74" source="Collaboration" target="Data for Good volunteering"></edge>
+      <edge id="75" source="Collaboration" target="Internship at Etalab"></edge>
+      <edge id="76" source="Media literacy" target="CRI Code Club"></edge>
+      <edge id="77" source="Media literacy" target="Sciences Po Lille Talk"></edge>
+      <edge id="78" source="Digital Humanities Course" target="Civic Tech"></edge>
+      <edge id="79" source="Digital Humanities Course" target="Open Source"></edge>
+      <edge id="80" source="Digital Humanities Course" target="Open Access"></edge>
+      <edge id="81" source="Digital Humanities Course" target="Documentary research"></edge>
+      <edge id="82" source="Digital Humanities Course" target="Social science"></edge>
+      <edge id="83" source="Leadership" target="CRI Code Club"></edge>
+      <edge id="84" source="Leadership" target="Internship at Etalab"></edge>
+      <edge id="85" source="Internship at Etalab" target="Project coordination"></edge>
+      <edge id="86" source="Internship at Etalab" target="Law"></edge>
+      <edge id="87" source="Internship at Etalab" target="Event planning"></edge>
+      <edge id="88" source="Internship at Etalab" target="Interdisciplinarity"></edge>
+      <edge id="89" source="Internship at Etalab" target="Lifelong Learning"></edge>
+      <edge id="90" source="Internship at Etalab" target="Writing &amp; Editing"></edge>
+      <edge id="91" source="Internship at Etalab" target="Open Source"></edge>
+      <edge id="92" source="Internship at Etalab" target="Diplomacy"></edge>
+      <edge id="93" source="Internship at Etalab" target="Public speaking"></edge>
+      <edge id="94" source="Internship at Etalab" target="Communication"></edge>
+      <edge id="95" source="Internship at Etalab" target="Data science"></edge>
+      <edge id="96" source="Internship at Etalab" target="Civic Tech"></edge>
+      <edge id="97" source="Internship at Etalab" target="Recruitment"></edge>
+      <edge id="98" source="Internship at Etalab" target="Open Data"></edge>
+      <edge id="99" source="Internship at Etalab" target="Politics"></edge>
+      <edge id="100" source="Internship at Etalab" target="Technology"></edge>
+      <edge id="101" source="Interdisciplinarity" target="Data for Good volunteering"></edge>
+      <edge id="102" source="Interdisciplinarity" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="103" source="CRI Code Club" target="Open Source"></edge>
+      <edge id="104" source="CRI Code Club" target="Communication"></edge>
+      <edge id="105" source="CRI Code Club" target="Technology"></edge>
+      <edge id="106" source="Annotated bibliography" target="Annotated bibliography on algorithms"></edge>
+      <edge id="107" source="Ethnography" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="108" source="Data for Good volunteering" target="Technology"></edge>
+      <edge id="109" source="Data for Good volunteering" target="Data science"></edge>
+      <edge id="110" source="Documentary research" target="Internship report on APB / Parcoursup"></edge>
+      <edge id="111" source="Documentary research" target="Annotated bibliography on algorithms"></edge>
+      <edge id="112" source="Documentary research" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="113" source="Politics" target="Annotated bibliography on algorithms"></edge>
+      <edge id="114" source="Internship report on APB / Parcoursup" target="Data collection"></edge>
+      <edge id="115" source="Internship report on APB / Parcoursup" target="Qualitative research"></edge>
+      <edge id="116" source="Internship report on APB / Parcoursup" target="Social science"></edge>
+      <edge id="117" source="Internship report on APB / Parcoursup" target="Writing &amp; Editing"></edge>
+      <edge id="118" source="Internship report on APB / Parcoursup" target="Academic research"></edge>
+      <edge id="119" source="Internship report on APB / Parcoursup" target="Technology"></edge>
+      <edge id="120" source="Annotated bibliography on algorithms" target="Social science"></edge>
+      <edge id="121" source="Annotated bibliography on algorithms" target="Academic research"></edge>
+      <edge id="122" source="Annotated bibliography on algorithms" target="Writing &amp; Editing"></edge>
+      <edge id="123" source="Annotated bibliography on algorithms" target="Technology"></edge>
+      <edge id="124" source="Qualitative research" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="125" source="Social science" target="Internship at Sciences Po Medialab"></edge>
+      <edge id="126" source="Social science" target="Attendance at ecnEHESS seminar"></edge>
+      <edge id="127" source="Public speaking" target="Sciences Po Lille Talk"></edge>
+      <edge id="128" source="Internship at Sciences Po Medialab" target="Design"></edge>
+      <edge id="129" source="Internship at Sciences Po Medialab" target="Academic research"></edge>
+      <edge id="130" source="Internship at Sciences Po Medialab" target="Writing &amp; Editing"></edge>
+      <edge id="131" source="Internship at Sciences Po Medialab" target="Technology"></edge>
+      <edge id="132" source="Sciences Po Lille Talk" target="Technology"></edge>
+      <edge id="133" source="Attendance at ecnEHESS seminar" target="Technology"></edge>
+      <edge id="134" source="Internship report on APB / Parcoursup" target="Sociology"></edge>
+      <edge id="135" source="Statistics Course" target="Technology"></edge>
+      <edge id="136" source="Job Lab Workshop" target="Technology"></edge>
+      <edge id="137" source="Job Lab Workshop" target="Web development"></edge>
+      <edge id="138" source="UX Research" target="Design"></edge>
+      <edge id="139" source="Design thinking" target="Design"></edge>
+    </edges>
+  </graph>
+</gexf>
