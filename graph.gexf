@@ -80,7 +80,7 @@
           <attvalue for="betweenesscentrality" value="13.509895522290755"></attvalue>
         </attvalues>
         <viz:size value="21.336624"></viz:size>
-        <viz:position x="-121.38982" y="337.71304"></viz:position>
+        <viz:position x="-117.48418" y="341.54437"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Critical Analysis" label="Critical Analysis">
@@ -150,7 +150,7 @@
           <attvalue for="betweenesscentrality" value="252.86855227194778"></attvalue>
         </attvalues>
         <viz:size value="38.64592"></viz:size>
-        <viz:position x="250.25812" y="195.81296"></viz:position>
+        <viz:position x="247.71663" y="193.0778"></viz:position>
         <viz:color r="0" g="202" b="255"></viz:color>
       </node>
       <node id="Statistics Course" label="Statistics Course">
@@ -164,7 +164,7 @@
           <attvalue for="betweenesscentrality" value="221.20220134109107"></attvalue>
         </attvalues>
         <viz:size value="56.85612"></viz:size>
-        <viz:position x="-604.5759" y="65.05"></viz:position>
+        <viz:position x="-597.327" y="57.901115"></viz:position>
         <viz:color r="234" g="134" b="21"></viz:color>
       </node>
       <node id="Political Science" label="Political Science">
@@ -192,7 +192,7 @@
           <attvalue for="betweenesscentrality" value="98.4411713817654"></attvalue>
         </attvalues>
         <viz:size value="30.88178"></viz:size>
-        <viz:position x="-156.84044" y="113.03679"></viz:position>
+        <viz:position x="-170.50627" y="111.91371"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Policy" label="Policy">
@@ -248,7 +248,7 @@
           <attvalue for="betweenesscentrality" value="96.59929152858011"></attvalue>
         </attvalues>
         <viz:size value="34.51088"></viz:size>
-        <viz:position x="-48.05043" y="126.72916"></viz:position>
+        <viz:position x="-39.765343" y="134.97179"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Web development" label="Web development">
@@ -262,7 +262,7 @@
           <attvalue for="betweenesscentrality" value="68.17942672540367"></attvalue>
         </attvalues>
         <viz:size value="20.365637"></viz:size>
-        <viz:position x="-308.18677" y="-409.0286"></viz:position>
+        <viz:position x="-352.4229" y="-450.94043"></viz:position>
         <viz:color r="234" g="134" b="21"></viz:color>
       </node>
       <node id="Workshop planning" label="Workshop planning">
@@ -332,7 +332,7 @@
           <attvalue for="betweenesscentrality" value="2.672896069447794"></attvalue>
         </attvalues>
         <viz:size value="20.245153"></viz:size>
-        <viz:position x="135.2857" y="454.34848"></viz:position>
+        <viz:position x="150.08247" y="469.7141"></viz:position>
         <viz:color r="0" g="202" b="255"></viz:color>
       </node>
       <node id="Design thinking" label="Design thinking">
@@ -360,7 +360,7 @@
           <attvalue for="betweenesscentrality" value="67.45826089329535"></attvalue>
         </attvalues>
         <viz:size value="24.370462"></viz:size>
-        <viz:position x="217.54483" y="-378.35196"></viz:position>
+        <viz:position x="241.82684" y="-356.98523"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Philosophy" label="Philosophy">
@@ -402,7 +402,7 @@
           <attvalue for="betweenesscentrality" value="46.66666666666675"></attvalue>
         </attvalues>
         <viz:size value="23.579506"></viz:size>
-        <viz:position x="687.1736" y="-365.35074"></viz:position>
+        <viz:position x="693.3898" y="-371.92114"></viz:position>
         <viz:color r="46" g="144" b="114"></viz:color>
       </node>
       <node id="Digital Humanities Course" label="Digital Humanities Course">
@@ -416,7 +416,7 @@
           <attvalue for="betweenesscentrality" value="98.27037392641287"></attvalue>
         </attvalues>
         <viz:size value="27.960737"></viz:size>
-        <viz:position x="-313.60593" y="-34.148087"></viz:position>
+        <viz:position x="-320.30182" y="-27.013577"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Leadership" label="Leadership">
@@ -444,7 +444,7 @@
           <attvalue for="betweenesscentrality" value="1074.1733770737412"></attvalue>
         </attvalues>
         <viz:size value="100.0"></viz:size>
-        <viz:position x="-97.36647" y="-408.3711"></viz:position>
+        <viz:position x="-92.84844" y="-404.2939"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Exploratory Statistics" label="Exploratory Statistics">
@@ -626,7 +626,7 @@
           <attvalue for="betweenesscentrality" value="4.489102323838081"></attvalue>
         </attvalues>
         <viz:size value="28.053886"></viz:size>
-        <viz:position x="-717.11237" y="-91.860535"></viz:position>
+        <viz:position x="-723.3312" y="-85.51049"></viz:position>
         <viz:color r="234" g="134" b="21"></viz:color>
       </node>
       <node id="Graphic design" label="Graphic design">
@@ -668,7 +668,7 @@
           <attvalue for="betweenesscentrality" value="4.489102323838081"></attvalue>
         </attvalues>
         <viz:size value="28.053886"></viz:size>
-        <viz:position x="-631.9209" y="-101.28284"></viz:position>
+        <viz:position x="-626.9009" y="-106.471054"></viz:position>
         <viz:color r="234" g="134" b="21"></viz:color>
       </node>
       <node id="Semi-directed interviews" label="Semi-directed interviews">
@@ -696,7 +696,7 @@
           <attvalue for="betweenesscentrality" value="68.84834256279312"></attvalue>
         </attvalues>
         <viz:size value="25.871767"></viz:size>
-        <viz:position x="-182.85742" y="207.97263"></viz:position>
+        <viz:position x="-186.51881" y="204.47696"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Politics" label="Politics">
@@ -752,7 +752,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="566.0733" y="-362.79144"></viz:position>
+        <viz:position x="558.7748" y="-354.83093"></viz:position>
         <viz:color r="46" g="144" b="114"></viz:color>
       </node>
       <node id="Internship report on APB / Parcoursup" label="Parcoursup Internship report">
@@ -766,7 +766,7 @@
           <attvalue for="betweenesscentrality" value="479.5650984256653"></attvalue>
         </attvalues>
         <viz:size value="61.279892"></viz:size>
-        <viz:position x="-18.871576" y="442.6831"></viz:position>
+        <viz:position x="-23.840113" y="437.67203"></viz:position>
         <viz:color r="0" g="202" b="255"></viz:color>
       </node>
       <node id="Annotated bibliography on algorithms" label="Annotated bibliography on algorithms">
@@ -808,7 +808,7 @@
           <attvalue for="betweenesscentrality" value="99.9026901204345"></attvalue>
         </attvalues>
         <viz:size value="28.90564"></viz:size>
-        <viz:position x="-87.44619" y="235.05981"></viz:position>
+        <viz:position x="-98.63027" y="223.74701"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Lifelong Learning" label="Lifelong Learning">
@@ -850,7 +850,7 @@
           <attvalue for="betweenesscentrality" value="9.958587142991165"></attvalue>
         </attvalues>
         <viz:size value="20.76881"></viz:size>
-        <viz:position x="110.80983" y="-358.1522"></viz:position>
+        <viz:position x="109.623215" y="-356.92776"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Communication" label="Communication">
@@ -878,7 +878,7 @@
           <attvalue for="betweenesscentrality" value="4.717171717171717"></attvalue>
         </attvalues>
         <viz:size value="20.363909"></viz:size>
-        <viz:position x="59.5061" y="-300.71057"></viz:position>
+        <viz:position x="59.21755" y="-301.0208"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Internship at Sciences Po Medialab" label="Medialab Internship">
@@ -892,7 +892,7 @@
           <attvalue for="betweenesscentrality" value="369.22963774683745"></attvalue>
         </attvalues>
         <viz:size value="53.611237"></viz:size>
-        <viz:position x="80.32952" y="247.32416"></viz:position>
+        <viz:position x="86.87438" y="253.72815"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Sciences Po Lille Talk" label="Sciences Po Lille Talk">
@@ -906,7 +906,7 @@
           <attvalue for="betweenesscentrality" value="29.012443327253635"></attvalue>
         </attvalues>
         <viz:size value="21.736233"></viz:size>
-        <viz:position x="166.72171" y="-287.91977"></viz:position>
+        <viz:position x="166.95808" y="-287.6528"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Civic Tech" label="Civic Tech">
@@ -948,7 +948,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="382.96948" y="211.72108"></viz:position>
+        <viz:position x="387.72385" y="216.56067"></viz:position>
         <viz:color r="0" g="202" b="255"></viz:color>
       </node>
       <node id="Design" label="Design">
@@ -976,7 +976,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-431.785" y="-51.843296"></viz:position>
+        <viz:position x="-432.307" y="-52.25549"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Social Network Research Methods" label="Social Network Research Methods">
@@ -1004,7 +1004,7 @@
           <attvalue for="betweenesscentrality" value="16.413052994693018"></attvalue>
         </attvalues>
         <viz:size value="21.014984"></viz:size>
-        <viz:position x="-190.35677" y="293.1867"></viz:position>
+        <viz:position x="-182.4323" y="285.7975"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Academic research" label="Academic research">
@@ -1018,7 +1018,7 @@
           <attvalue for="betweenesscentrality" value="104.21160756556307"></attvalue>
         </attvalues>
         <viz:size value="62.58702"></viz:size>
-        <viz:position x="-322.0207" y="311.6516"></viz:position>
+        <viz:position x="-326.3916" y="312.73474"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Data collection" label="Data collection">
@@ -1046,7 +1046,7 @@
           <attvalue for="betweenesscentrality" value="169.27922087612794"></attvalue>
         </attvalues>
         <viz:size value="36.240463"></viz:size>
-        <viz:position x="53.851486" y="89.92305"></viz:position>
+        <viz:position x="59.25542" y="84.76932"></viz:position>
         <viz:color r="95" g="198" b="19"></viz:color>
       </node>
       <node id="Technology" label="Technology">
@@ -1060,7 +1060,7 @@
           <attvalue for="betweenesscentrality" value="715.1726837637583"></attvalue>
         </attvalues>
         <viz:size value="50.87039"></viz:size>
-        <viz:position x="-128.90689" y="-54.078884"></viz:position>
+        <viz:position x="-125.06958" y="-57.81627"></viz:position>
         <viz:color r="198" g="134" b="233"></viz:color>
       </node>
       <node id="Descriptive Statistics" label="Descriptive Statistics">
@@ -1074,7 +1074,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
-        <viz:position x="-750.36255" y="67.50378"></viz:position>
+        <viz:position x="-766.8558" y="84.0612"></viz:position>
         <viz:color r="234" g="134" b="21"></viz:color>
       </node>
     </nodes>
